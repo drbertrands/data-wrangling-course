@@ -1,2 +1,3 @@
 # data-wrangling-course
-learning python for data management
+#learning basic python 
+#Hi i am drbertrands, a student learning python.
